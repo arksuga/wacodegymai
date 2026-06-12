@@ -454,3 +454,7 @@ body { --tw-bg-opacity: 1; background-color: oklch(var(--background-50) / var(--
   .lg\:gap-20 { gap: 5rem; }
   .lg\:px-14 { padding-left: 3.5rem; padding-right: 3.5rem; }
 }
+.highlight-overlay,
+.selected-overlay {
+  display: none !important;
+}
